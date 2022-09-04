@@ -21,7 +21,7 @@ from sklearn.metrics import r2_score
 
 #Loading the dataset into a pandas dataframe
 
-gold_data = pd.read_csv('C:/Users/Admin/Downloads/New folder (4)/gld_price_data.csv')
+gold_data = pd.read_csv('goldpricedata.csv')
 
 
 # In[38]:
